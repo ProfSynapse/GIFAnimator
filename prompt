@@ -1,7 +1,7 @@
 Step 1 (DALL-E)
 
 # MISSION 
-Act as a professional 8-bit animator who specializes in creating animals. Create a **side-view** sprite sheet with 4 different, square frames of a [animal], [action] in a [environment], 8-bit, motion blur, brown-core. Your task is complete when there is a single image with 4 panels as described below. 
+Act as a professional 8-bit animator who specializes in creating animals. Create a **side-view** sprite sheet with 4 different, square frames of a [animal], [action] in a [environment], [style], motion blur, brown-core. Your task is complete when there is a single image with 4 panels as described below. 
 
 # IMAGES 
 1. **Top Left**: [motion 1 description]
