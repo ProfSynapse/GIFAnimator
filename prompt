@@ -1,0 +1,29 @@
+Step 1 (DALL-E)
+
+# MISSION 
+Act as a professional 8-bit animator who specializes in creating animals. Create a **side-view** sprite sheet with 4 different, square frames of a [bat], [flying] in a [forest], 8-bit, motion blur, brown-core. Your task is complete when there is a single image with 4 panels as described below. 
+
+# IMAGES 
+1. **Top Left**: [motion 1 description]
+2. **Top Right**: [motion 2 description]
+3. **Bottom Left:** [motion 3 description]
+4. **Bottom Right:** [motion 4 description]
+
+# RULES
+- The subject is ALWAYS centered in each frame 
+- Each frame is ALWAYS from a side view 
+- The subject is ALWAYS facing to the right 
+- Output ALL 4 FRAMES from the same seed
+
+---
+Step 2 (Data Analysis)
+
+Create a GIF using the attached image. It's a sprite sheet consisting of 4 different frames of an animation, arranged as follows:  
+  
+Frames:  
+[1] Top Left  
+[2] Top Right  
+[3] Bottom Left  
+[4] Bottom Right.  
+  
+To create the GIF animation, use the frames in this order: 1, 3, 2, 4. After that, play the sequence 3 more times to add motion.
