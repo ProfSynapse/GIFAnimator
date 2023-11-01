@@ -3,7 +3,8 @@ Hey there, code wranglers and pixel enthusiasts! Welcome to this unique project 
 
 ## 🎥 Video Walkthrough
 Don't just read about it, see it in action! Click the image below for a [video walkthrough](https://www.youtube.com/watch?v=fefLrYgeWTM).
-Watch the video
+
+[Check out our website for more goodies](https://www.synapticlabs.ai)
 
 ## 🙌 Inspiration
 Massive shoutout to the brilliant [Victor Wendt](https://www.linkedin.com/in/victorwendt/) for sparking this idea! 🌟🔥
