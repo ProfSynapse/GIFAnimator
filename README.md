@@ -1,11 +1,11 @@
-#🌟 8-bit Animation Wonderland 🌈
+# 🌟 8-bit Animation Wonderland 🌈
 Hey there, code wranglers and pixel enthusiasts! Welcome to this unique project where you'll become a maestro at creating your very own 8-bit sprite sheet using DALL-E, and then animating it to bring it to life! 🎨🌟
 
-##🎥 Video Walkthrough
+## 🎥 Video Walkthrough
 Don't just read about it, see it in action! Click the image below for a [video walkthrough](https://www.youtube.com/watch?v=fefLrYgeWTM).
 Watch the video
 
-##🙌 Inspiration
+## 🙌 Inspiration
 Massive shoutout to the brilliant [Victor Wendt](https://www.linkedin.com/in/victorwendt/) for sparking this idea! 🌟🔥
 
 ## 🎨 Step 1: Create Your 8-bit Sprite Sheet with DALL-E 🤖
